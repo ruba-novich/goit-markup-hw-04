@@ -525,13 +525,11 @@ margin-left: 10px;
    letter-spacing: 0.03em;
 }
 
-.button-list .button.portfolio +.button.portfolio {
-   margin-left: 10px;
-
 .project-list {
    display: flex;
    flex-wrap: wrap;
    overflow: hidden;
+   margin-bottom: 94px;
 }
 .project {
    width: 370px;
