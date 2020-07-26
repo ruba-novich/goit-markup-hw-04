@@ -685,6 +685,7 @@ margin-left: 10px;
    border: 1px solid #EEEEEE;
    border-top: none;
    box-sizing: border-box;
+   white space: nowrap;
    
 }
 
